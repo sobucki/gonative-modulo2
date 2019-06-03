@@ -14,5 +14,5 @@ export default {
 
   transparent: 'transparent',
   darkTransparent: 'rgb(0, 0, 0, 0.6)',
-  whiteTransparen: 'rgb(255, 255, 255, 0.3)',
+  whiteTransparent: 'rgb(255, 255, 255, 0.3)',
 };
